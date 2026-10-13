@@ -1,5 +1,5 @@
-# uprs-gemini
-Code / CSVs from URPS Winter 2024 Project ("Psychology of ChatGPT")
+# psychology-of-gemini
+Code / CSVs from URPS (Undergraduate Research Project in Statistics) Winter 2024 Project
 
 This repo contains all the python, CSV, and jupyter notebook files that I used to execute the project. The repo is broken into folders for each of the experiments conducted:
 1. Doctors - Framing Effect: this experiment presents medical information in 2 ways (same information) and asks Gemini to choose a treatment 
